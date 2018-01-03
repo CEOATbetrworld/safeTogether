@@ -1,0 +1,15 @@
+{
+  "short_name": "Emergency!!",
+  "name": "Emergency!!",
+   "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FFFFFF",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
