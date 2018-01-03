@@ -1,9 +1,9 @@
 {
-  "short_name": "Emergency!!",
-  "name": "Emergency!!",
+  "short_name": "deBugger",
+  "name": "deBugger",
    "icons": [
     {
-      "src": "icon.png",
+      "src": "launcher-icon-1x.png",
       "sizes": "144x144",
       "type": "image/png"
     }
