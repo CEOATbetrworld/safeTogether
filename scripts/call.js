@@ -9,7 +9,7 @@ var urr = [papa,momy,ayush];
 var carr = document.getElementsByTagName('a');
 
 for(var a = 0 ; a<carr.length;a++){
-	carr[a].href = "tel:" + urr[a]; 
+	carr[a].href = "tel:+91" + urr[a]; 
 }
 
 
